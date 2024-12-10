@@ -1,0 +1,11 @@
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Test files
+*.pyt
+*.pyi
+
+# Environment files
+.env
